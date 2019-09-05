@@ -1,6 +1,6 @@
-OAuth2.0实验/n
+OAuth2.0实验
 
-authcode-server 是授权码模式认证服务器和资源服务器/n
+authcode-server 是授权码模式认证服务器和资源服务器
 
 client-derver 是客户端模式的认证服务器和资源服务器
 
